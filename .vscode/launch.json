@@ -1,0 +1,406 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GrayCode",
+            "request": "launch",
+            "mainClass": "GrayCode",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "circuitmath",
+            "request": "launch",
+            "mainClass": "kattis.circuitmath",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeReorder",
+            "request": "launch",
+            "mainClass": "PalindromeReorder",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumbers",
+            "request": "launch",
+            "mainClass": "kattis.MissingNumbers",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "CoinPiles",
+            "request": "launch",
+            "mainClass": "CoinPiles",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "TrailingZeros",
+            "request": "launch",
+            "mainClass": "TrailingZeros",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "BitStrings",
+            "request": "launch",
+            "mainClass": "BitStrings",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "TwoSets",
+            "request": "launch",
+            "mainClass": "TwoSets",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "BovineGenomics",
+            "request": "launch",
+            "mainClass": "BovineGenomics",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "Repetitions",
+            "request": "launch",
+            "mainClass": "Repetitions",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "BalancedTunnel",
+            "request": "launch",
+            "mainClass": "codeforces.BalancedTunnel",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "DaisyChains",
+            "request": "launch",
+            "mainClass": "DaisyChains",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "QuicksortTest",
+            "request": "launch",
+            "mainClass": "QuicksortTest",
+            "projectName": "competitive-programming_172cb074"
+        },
+        {
+            "type": "java",
+            "name": "TwoKnights",
+            "request": "launch",
+            "mainClass": "TwoKnights",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "NumberSpiral",
+            "request": "launch",
+            "mainClass": "NumberSpiral",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "cses.Permutations",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "IncreasingArray",
+            "request": "launch",
+            "mainClass": "cses.IncreasingArray",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Repetition",
+            "request": "launch",
+            "mainClass": "cses.Repetition",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "cses.MissingNumber",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "WeirdAlgorithm",
+            "request": "launch",
+            "mainClass": "cses.WeirdAlgorithm",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "BalancedTunnel",
+            "request": "launch",
+            "mainClass": "Codeforces.BalancedTunnel",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BovineGenomics",
+            "request": "launch",
+            "mainClass": "BovineGenomics",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "BovineGenomicsSilver",
+            "request": "launch",
+            "mainClass": "BovineGenomicsSilver",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "BuildingRoads",
+            "request": "launch",
+            "mainClass": "BuildingRoads",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "BuildingTeams",
+            "request": "launch",
+            "mainClass": "BuildingTeams",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "CircleCross",
+            "request": "launch",
+            "mainClass": "CircleCross",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "ClosingTheFarm",
+            "request": "launch",
+            "mainClass": "ClosingTheFarm",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "CountingLiars",
+            "request": "launch",
+            "mainClass": "CountingLiars",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "CowEvolution",
+            "request": "launch",
+            "mainClass": "CowEvolution",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "CowGymnastics",
+            "request": "launch",
+            "mainClass": "CowGymnastics",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "DaisyChains",
+            "request": "launch",
+            "mainClass": "DaisyChains",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "DiamondCollector",
+            "request": "launch",
+            "mainClass": "DiamondCollector",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "FlightRoutesCheck",
+            "request": "launch",
+            "mainClass": "FlightRoutesCheck",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "GrassPlanting",
+            "request": "launch",
+            "mainClass": "GrassPlanting",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "GreatRevegetation",
+            "request": "launch",
+            "mainClass": "GreatRevegetation",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "GuessTheAnimal",
+            "request": "launch",
+            "mainClass": "GuessTheAnimal",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "LivestockLineup",
+            "request": "launch",
+            "mainClass": "LivestockLineup",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "MaximumDistance",
+            "request": "launch",
+            "mainClass": "MaximumDistance",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "MilkFactory",
+            "request": "launch",
+            "mainClass": "MilkFactory",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "MilkPails",
+            "request": "launch",
+            "mainClass": "MilkPails",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Moocast",
+            "request": "launch",
+            "mainClass": "Moocast",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Rank",
+            "request": "launch",
+            "mainClass": "Rank",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "SwapitySwap",
+            "request": "launch",
+            "mainClass": "SwapitySwap",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Triangles",
+            "request": "launch",
+            "mainClass": "Triangles",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "bestrelayteam",
+            "request": "launch",
+            "mainClass": "bestrelayteam",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "birthday",
+            "request": "launch",
+            "mainClass": "birthday",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "cd",
+            "request": "launch",
+            "mainClass": "cd",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "cookieselection",
+            "request": "launch",
+            "mainClass": "cookieselection",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "gcpc",
+            "request": "launch",
+            "mainClass": "gcpc",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "lifeguards",
+            "request": "launch",
+            "mainClass": "lifeguards",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "nodup",
+            "request": "launch",
+            "mainClass": "nodup",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "shoppinglist",
+            "request": "launch",
+            "mainClass": "shoppinglist",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "simpleaddition",
+            "request": "launch",
+            "mainClass": "simpleaddition",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "torn2pieces",
+            "request": "launch",
+            "mainClass": "torn2pieces",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "zoo",
+            "request": "launch",
+            "mainClass": "zoo",
+            "projectName": "competitive-programming_2e11c633"
+        }
+    ]
+}

@@ -1,3 +1,4 @@
+# Problem link: https://open.kattis.com/problems/antipalindrome?tab=submissions
 import re
 
 def antiPalindrome(text):

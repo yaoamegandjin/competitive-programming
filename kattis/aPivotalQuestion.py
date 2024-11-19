@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/apivotalquestion
 def aPivotalQuestion(string):
     string = string.split()
     for i in range(len(string)):

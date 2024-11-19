@@ -1,0 +1,8 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "files.insertFinalNewline": true,
+    "C_cpp.default.cppStandard": "c++23",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
