@@ -1,3 +1,4 @@
+//Problem link: https://cses.fi/problemset/task/1618
 import java.util.*;
 public class TrailingZeros {
     public static void main(String[] args) {

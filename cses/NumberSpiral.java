@@ -1,3 +1,4 @@
+// Problem link: https://cses.fi/problemset/task/1071
 import java.io.*;
 
 public class NumberSpiral {

@@ -11,8 +11,7 @@ public class torn2pieces {
     static boolean[] visited;
     static ArrayList<String> path  = new ArrayList<>();
     static boolean dfs(int start, int end) {
-        if (start == end) {
-            visited[end] = true;
+        if (visited[end]) {
             return true;
         }
         visited[start] = true;
@@ -23,6 +22,7 @@ public class torn2pieces {
         }
         for(int station: graph.get(start)) {
             if(!visited[station]) {
+                visited[station] = true;
                 if (dfs(station, end)) {
                     return true;
                 }
@@ -34,9 +34,7 @@ public class torn2pieces {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in), 16384);
         int numOfStations = Integer.parseInt(br.readLine());
-        visited = new boolean[numOfStations];
         int ID = 0;
-
         for (int i = 0; i < numOfStations; i++) {
             String stations = br.readLine();
             String[] adjStations = stations.split(" ");
@@ -44,7 +42,7 @@ public class torn2pieces {
                 if (!station.containsKey(adjStations[j])) {
                     station.put(adjStations[j], ID);
                     graph.put(ID, new HashSet<>());
-                    ID++;
+                    ++ID;
                 }
             }
             for ( int n = 1; n < adjStations.length; n++) {
@@ -52,6 +50,7 @@ public class torn2pieces {
                     graph.get(station.get(adjStations[n])).add(station.get(adjStations[0]));
             }
         }
+        visited = new boolean[ID];
 
         StringTokenizer st = new StringTokenizer(br.readLine());
         int startingStation = station.get(st.nextToken());

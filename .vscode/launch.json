@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "torn2pieces",
+            "request": "launch",
+            "mainClass": "kattis.torn2pieces",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Atlantis",
+            "request": "launch",
+            "mainClass": "kattis.Atlantis",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "apaxiaaaaaaaaaaaans",
+            "request": "launch",
+            "mainClass": "kattis.apaxiaaaaaaaaaaaans",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "ShohagLovesStrings",
+            "request": "launch",
+            "mainClass": "codeforces.ShohagLovesStrings",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Apartments",
+            "request": "launch",
+            "mainClass": "Apartments",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "DistinctNumbers",
+            "request": "launch",
+            "mainClass": "DistinctNumbers",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "ChessboardAndQueens",
+            "request": "launch",
+            "mainClass": "ChessboardAndQueens",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "AppleDivision",
+            "request": "launch",
+            "mainClass": "AppleDivision",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStrings",
+            "request": "launch",
+            "mainClass": "CreatingStrings",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "GrayCode",
+            "request": "launch",
+            "mainClass": "GrayCode",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "onlinejudge.Main",
+            "projectName": "competitive-programming_2e11c633"
+        },
+        {
+            "type": "java",
+            "name": "hissingmicrophone",
+            "request": "launch",
+            "mainClass": "kattis.hissingmicrophone",
+            "projectName": "competitive-programming_4e30ae53"
+        },
+        {
+            "type": "java",
             "name": "GrayCode",
             "request": "launch",
             "mainClass": "GrayCode",

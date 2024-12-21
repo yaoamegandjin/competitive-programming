@@ -50,6 +50,7 @@ public class PalindromeReorder {
         }
         pw.flush();
         pw.close();
+        scnr.close();
 
     }
     
